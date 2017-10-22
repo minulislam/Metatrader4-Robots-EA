@@ -7,7 +7,7 @@ And RSI>=65
 Then open a BUY position (LONG) with following parameters :
 
 - no stoploss
-- takeprofit = buy price + spread + buy price/100*0.1 (<=> buy price + spred + 0.1% of buy price)
+- takeprofit = buy price + spread + buy price/100*0.1 (<=> buy price + spread + 0.1% of buy price)
 
 Backtest with Darwinex MT4 platform :
 
