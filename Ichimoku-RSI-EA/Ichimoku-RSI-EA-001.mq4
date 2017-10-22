@@ -1,5 +1,5 @@
 //+------------------------------------------------------------------+
-//|                                        RSIExpertM15_Backtest.mq4 |
+//|                                        Ichimoku-RSI-EA-001.mq4 |
 //|                     Copyright 2017, investdata.000webhostapp.com |
 //|                             https://ichimoku-expert.blogspot.com |
 //+------------------------------------------------------------------+
