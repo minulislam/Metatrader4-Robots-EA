@@ -16,5 +16,8 @@ Initial equity = 500€
 Final equity = 1363.82€
 ROI = +136%
 
+All 20 winning trades (100% successful on the concerned period).
+
+
 
 
